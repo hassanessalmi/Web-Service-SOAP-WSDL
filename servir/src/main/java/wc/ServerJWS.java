@@ -1,4 +1,5 @@
-package ws;
+package wc;
+
 import jakarta.xml.ws.Endpoint;
 
 public class ServerJWS {

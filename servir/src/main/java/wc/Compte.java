@@ -1,4 +1,4 @@
-package ws;
+package wc;
 
 import java.util.Date;
 

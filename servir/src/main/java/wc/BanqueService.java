@@ -1,4 +1,4 @@
-package ws;
+package wc;
 
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebParam;
